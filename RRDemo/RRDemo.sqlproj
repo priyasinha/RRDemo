@@ -196,4 +196,10 @@
   <ItemGroup>
     <None Include="Migrations\0003_20160324-1115_priya.sinha.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Schema-Model\dbo\Tables\Table_4.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\0004_20160404-1400_priya.sinha.sql" />
+  </ItemGroup>
 </Project>
